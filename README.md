@@ -2,6 +2,8 @@
 This was my technical round task for an internship position at Blurgs (https://www.blurgs.com/).
 I was tasked with annotating data and training a model to identify temperature based anomalies in Solar panels using object detection and semantic segmentation.
 
+<a href="https://docs.google.com/document/d/1tNs_Akz0ZNM_Pgl40J_kac_POlSOWQn58E3SO3A_QkA/edit?usp=sharing"  target="_blank"> Project Report Link </a>
+
 ## Overview
 The tech stack I used in this task was a new one. I had never used RoboFlow before. 
 In addition this was the first time I worked with Object Detection and Semantic Segmentation. This report is to properly convey my thinking process and procedure of working on this task.
